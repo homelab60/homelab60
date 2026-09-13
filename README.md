@@ -2,8 +2,8 @@
 
 **blockchain + agents**
 
-Construyo herramientas para que los agentes de IA trabajen juntos. Mido y mejoro productos con ellos.
-Me interesa integrar algoritmos de machine learning cada vez que tengo la oportunidad.
+Voy hacia un ecosistema donde los agentes de IA colaboran entre sí como un equipo.
+Construyo las herramientas para llegar ahí: mido lo que producen y los mejoro con machine learning en cada iteración.
 
 > Lo que no se puede medir, no se puede mejorar.
 
