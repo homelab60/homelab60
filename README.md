@@ -2,7 +2,9 @@
 
 **blockchain + agents**
 
-Construyo herramientas para que los agentes de IA trabajen mejor — y productos con ellos.
+Construyo herramientas para que los agentes de IA trabajen juntos. Mido y mejoro productos con ellos.
+Me interesa integrar algoritmos de machine learning cada vez que tengo la oportunidad.
+
 Montevideo, Uruguay.
 
 ## Stack
