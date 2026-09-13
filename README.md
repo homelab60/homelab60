@@ -1,17 +1,27 @@
 # bic
 
-**blockchain + agents**
+`blockchain + agents`
+
+## contexto
 
 Voy hacia un ecosistema donde los agentes de IA colaboran entre sí como un equipo.
-Construyo las herramientas para llegar ahí: mido lo que producen y los mejoro con machine learning en cada iteración.
 
+## prompt
 
-## Stack
+Construir las herramientas para llegar ahí: medir lo que producen y mejorarlo con machine learning en cada iteración.
 
-- **TypeScript / Next.js / React 19** — todo lo que se ve: interfaces web, dashboards y plantillas base para arrancar productos rápido (Tailwind v4, shadcn/Base UI)
-- **Rust** — la infraestructura: servidores MCP que les dan capacidades a los agentes, TUIs y tooling de alto rendimiento
-- **Python** — todo lo que apoya: pipelines de datos, procesamiento y utilidades puntuales
+## tools
 
-## Contacto
+- `typescript` — lo que se ve: interfaces web, dashboards, plantillas base
+- `rust` — la infraestructura: servidores MCP, TUIs, tooling de alto rendimiento
+- `python` — lo que apoya: pipelines de datos, procesamiento, utilidades
 
-- GitHub: [@homelab60](https://github.com/homelab60)
+## indicaciones
+
+- medir todo lo que se produce
+- integrar ML siempre que haya oportunidad
+- lo que no se puede medir, no se puede mejorar
+
+---
+
+`@homelab60`
