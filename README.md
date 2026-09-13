@@ -5,7 +5,7 @@
 Construyo herramientas para que los agentes de IA trabajen juntos. Mido y mejoro productos con ellos.
 Me interesa integrar algoritmos de machine learning cada vez que tengo la oportunidad.
 
-Montevideo, Uruguay.
+> Lo que no se puede medir, no se puede mejorar.
 
 ## Stack
 
