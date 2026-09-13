@@ -13,6 +13,15 @@ construir productos reales.
 
 Construir las herramientas para llegar ahí: medir lo que producen y mejorarlo con machine learning en cada iteración.
 
+## pirámide
+
+```
+      fábricas    producen equipos
+     equipos      coordinan agentes
+    agentes       tools + skills + contexto
+   código         acá empezamos: todo a mano
+```
+
 ## tools
 
 - `typescript` — lo que se ve: interfaces web, dashboards, plantillas base
