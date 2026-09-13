@@ -5,7 +5,7 @@
 ## contexto
 
 Hoy los agentes de IA trabajan aislados: uno por chat, uno por tarea.
-Voy hacia un ecosistema donde colaboran entre sí como un equipo —
+Voy hacia un ecosistema donde colaboran entre sí como un equipo,
 cada uno con sus tools, sus skills y su contexto, coordinados para
 construir productos reales.
 
