@@ -16,6 +16,13 @@ Construir las herramientas para llegar ahí: medir lo que producen y mejorarlo c
 - `rust` — la infraestructura: servidores MCP, TUIs, tooling de alto rendimiento
 - `python` — lo que apoya: pipelines de datos, procesamiento, utilidades
 
+## skills
+
+- `mcp-servers` — servidores MCP que les dan capacidades a los agentes
+- `interfaces-para-agentes` — UIs donde personas y agentes trabajan juntos
+- `plantillas-base` — bases reutilizables para arrancar productos rápido
+- `metricas` — medir, evaluar y mejorar lo que producen los agentes
+
 ## indicaciones
 
 - medir todo lo que se produce
