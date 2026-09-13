@@ -16,10 +16,18 @@ Construir las herramientas para llegar ahí: medir lo que producen y mejorarlo c
 ## pirámide
 
 ```
-      fábricas    producen equipos
-     equipos      coordinan agentes
-    agentes       tools + skills + contexto
-   código         acá empezamos: todo a mano
+         ┌───────────┐
+         │ fábricas  │   producen equipos
+         └───────────┘
+      ┌─────────────────┐
+      │     equipos     │   coordinan agentes
+      └─────────────────┘
+   ┌───────────────────────┐
+   │        agentes        │   tools + skills + contexto
+   └───────────────────────┘
+┌─────────────────────────────┐
+│           código            │   acá empezamos: todo a mano
+└─────────────────────────────┘
 ```
 
 ## tools
